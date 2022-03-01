@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Roeliefantje
-- 👀 I’m interested in creating & playing Games!
+- 👀 I’m interested in creating & playing games!
 - 🌱 I’m currently learning Unity and Shaders
 - 📫 You can reach me through twitter!
 
