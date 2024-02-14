@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Roeliefantje
-- 👀 I’m interested in creating & playing games and software development in general!
-- 🌱 I’m currently learning Unity and Shaders
+- 👀 I’m interested in creating & playing games, graphics programming and software development in general!
+- 🌱 I’m currently learning Godot, Rust, WGPU and Shaders
 - 📫 You can reach me through twitter!
 
 <!---
