@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Roeliefantje
 - 👀 I’m interested in creating & playing games, graphics programming and software development in general!
-- 🌱 I’m currently learning Rust, WGPU, Vulkan and Shaders
+- 🌱 I’m currently learning Rust, WGPU, Vulkan and Shaders (Ray Marching, SDF) 
 - 📫 You can reach me through twitter or linkedin!
 
 <!---
